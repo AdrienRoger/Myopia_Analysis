@@ -57,9 +57,6 @@ Myopia (nearsightedness) is a rapidly rising global public health problem. Child
 - **Interpret** model features for clinical and public understanding  
 - **Assess** equity and robustness of predictive models
 
-## 2.3 Data Sources
-
-- Primary dataset: [Kaggle Myopia Study](https://www.kaggle.com/datasets/mscgeorges/myopia-study)
-- Analysis reference: [GitHub Code](https://github.com/ggeop/Myopia-Study/blob/master/Code.R)
-- Secondary habit dataset: [Student Habits vs Academic Performance](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance)
-
+## 2.3 Table of Contents
+1. [Data Exploration](./1.Data_Exploration.ipynb)
+2. [Model](./2.Predicting_modeling.ipynb)
