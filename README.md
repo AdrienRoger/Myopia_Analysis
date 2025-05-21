@@ -1,15 +1,5 @@
 # Myopia Study: Comprehensive Analysis, Modeling and Reporting
 
-##  Jupyter Notebooks (viewable with outputs)
-
-Due to their large size, the notebooks cannot be directly previewed on GitHub.  
-**You can view them (including all outputs and visualizations) via [nbviewer](https://nbviewer.org/):**
-
-- [1.Data_Exploration.ipynb](https://nbviewer.org/github/AdrienRoger/Myopia_Analysis/blob/main/1.Data_Exploration.ipynb)
-- [2.Predicting_modeling.ipynb](https://nbviewer.org/github/AdrienRoger/Myopia_Analysis/blob/main/2.Predicting_modeling.ipynb)
-
-> _Clicking these links will render the full notebook and all cell outputs, even if GitHub cannot display them._
-
 # 1. **Preventive Measures**
 
 ## **Context and Background:**  
